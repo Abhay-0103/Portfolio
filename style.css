@@ -593,3 +593,7 @@ section {
   font-size: 1.6rem;
   line-height: 1.6;
 }
+.see-more-container {
+  text-align: center;
+  margin-top: 4rem;
+}
