@@ -1,6 +1,5 @@
 # Personal Portfolio 🚀
 
-## ✨ About 
 The website showcases my work, skills, projects, and professional journey, aiming to create a clean and modern digital presence.
 
 ## Live Preview :- https://portfolio-1-nine-xi.vercel.app/
