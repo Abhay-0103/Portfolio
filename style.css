@@ -161,10 +161,6 @@ section {
   box-shadow: 0 0 30px var(--main-color), 0 0 60px var(--main-color);
 }
 
-@keyframes floatImg {
-0%, 100% { transform: translateY(0px); }
-50% { transform: translateY(-20px); }
-}
 /* Responsive menu only on mobile */
 @media (max-width: 600px) {
   .header { padding: 2rem 5%; }
