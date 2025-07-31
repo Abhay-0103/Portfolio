@@ -1,4 +1,4 @@
-,* {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -53,6 +53,7 @@ body {
 span {
   background: linear-gradient(270deg, #DF8908 10%, #ff1d15 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
