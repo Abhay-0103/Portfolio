@@ -142,7 +142,7 @@ section {
 }
 
 .home-img {
-  flex: 1 1 400px;
+  flex: 1 1 300px;
   display: flex;
   justify-content: center;
 }
@@ -161,6 +161,7 @@ section {
   transform: scale(1.05);
   box-shadow: 0 0 30px var(--main-color), 0 0 60px var(--main-color);
 }
+
 
 /* Responsive menu only on mobile */
 @media (max-width: 600px) {
@@ -793,3 +794,5 @@ section {
     z-index: 2;
   }
 }
+
+
