@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="style.css" />
 
     <title>Abhay Singh</title>
+   
 </head>
 
 <body>
@@ -44,7 +45,8 @@
     <section class="home" id="home">
         <div class="home-content">
             <h1>Hi, It's <span>Abhay</span></h1>
-            <h3>I'm a <span>Full-Stack Developer</span></h3>
+            <h3>I'm a <span class="typing"></span></h3>
+
             <p>
                 I’m a passionate full‑stack developer who loves turning complex ideas into intuitive, user‑friendly
                 digital products. With practical experience across the MERN and PERN stacks, I enjoy building everything
@@ -84,7 +86,7 @@
 
         </div>
         <div class="home-img">
-            <img src="img/1.jpg" alt="Abhay Singh Portrait" />
+            <img src="img/3.jpeg" alt="Abhay Singh Portrait" />
         </div>
     </section>
 
@@ -291,25 +293,25 @@
 
 
 
-    <section class="contact" id="contact">
-        <h2 class="heading">Contact <span>Me</span></h2>
-        <div class="contact-info">
-            <div class="contact-item">
-                <i class="bx bx-envelope"></i>
-                <p><a href="mailto:ab0321054@gmail.com">ab0321054@gmail.com</a></p>
-            </div>
-            <div class="contact-item">
-                <i class="bx bx-map"></i>
-                <p>Bengaluru, Karnataka, India</p>
-            </div>
-            <div class="contact-item">
-                <i class="bx bx-phone"></i>
-                <p><a href="tel:+919740824903">+91-9740824903</a></p> <!-- replace with your real number -->
-            </div>
+  
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <form>
+      <label for="name">Your Name</label>
+      <input type="text" id="name" placeholder="Enter your name" required>
 
-        </div>
-    </section>
+      <label for="email">Your Email</label>
+      <input type="email" id="email" placeholder="Enter your email" required>
 
+      <label for="message">Your Message</label>
+      <textarea id="message" placeholder="Write your message..." required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+
+</body>
+</html>
 
 
     <footer class="footer">
