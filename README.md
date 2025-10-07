@@ -1,6 +1,6 @@
 # Personal Portfolio 🚀
 
-A modern, responsive portfolio website showcasing skills, projects, and professional journey with a clean and professional design.
+A Modern Personalized , responsive portfolio website showcasing skills, projects, and professional journey with a clean and professional design.
 
 ## 🌟 Live Preview
 **[View Portfolio](https://abhaysinghrajput.vercel.app/)**
