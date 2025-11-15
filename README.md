@@ -106,9 +106,6 @@ The contact form is integrated with **Formspree** for seamless message handling.
 - ✅ Edge (latest)
 - ✅ Mobile browsers
 
-## 📄 License
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 👨‍💻 Developer
 **Abhay Singh**
 - GitHub: [@Abhay-0103](https://github.com/Abhay-0103)
