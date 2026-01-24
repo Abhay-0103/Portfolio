@@ -186,21 +186,10 @@ body {
   font-family: var(--font-display);
   cursor: pointer;
   transition: var(--transition-normal);
-  display: flex;
-  align-items: center;
-  gap: 0.2rem;
-}
-
-.logo-bracket {
-  color: var(--accent-primary);
-  font-weight: 400;
-}
-
-.logo-slash {
-  color: var(--accent-secondary);
 }
 
 .logo:hover {
+  color: var(--accent-primary);
   transform: scale(1.05);
 }
 
